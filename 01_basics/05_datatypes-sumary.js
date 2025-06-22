@@ -12,7 +12,7 @@ let userEmail;
 const id = Symbol('123')
 const anotherId = Symbol('123')
 
-console.log(id === anotherId);
+console.log(id === anotherId); 
 
 // const bigNumber = 3456543576654356754n
 
@@ -35,3 +35,7 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//++++++++++++++++++
+// Stack(Primitive),Heap(Non Primitive)
+let myYoutubename="prathitharydotcom"
